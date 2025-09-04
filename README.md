@@ -10,7 +10,9 @@ Currently, two official plugins are available:
 Technology Stack
 
 Framework:React+ vite
+
 Styling:TailwindCss
+
 API fetching:Open-Meteo API
 
 Installation & Setup
