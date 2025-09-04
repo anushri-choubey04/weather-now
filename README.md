@@ -12,6 +12,7 @@ Project Structure
 
 weather-now/
 ├── src/          # Main  project
+
 │   ├── Lightrays.jsx        # Project settings
 │   ├── WeatherNow.jsx       # API
 ├── index.html                    
