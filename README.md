@@ -11,6 +11,7 @@ Installation & Setup
 Project Structure
 
 weather-now/
+
 ├── src/          # Main  project
 
 │   ├── Lightrays.jsx        # Project settings
